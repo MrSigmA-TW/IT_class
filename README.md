@@ -1,10 +1,15 @@
 
+
 # 這是一個資訊課的檔案存放處
 
 ## 使用規則
 1. 使用 `git` 來存放上課的筆記及檔案
 2. 每次上課或有編輯檔案，commit 時記得寫內容
 3. 想到再寫
+
+## 實用連結
+* [台南女中資訊研究社 早修C++講義](https://hackmd.io/@Tamilala/TngsCppCourse//@Tamilala/cpp_cover#%E5%B0%81%E9%9D%A2)
+* [KSHS MD](https://class.kshs.kh.edu.tw/)
 
 ## GIT 的使用 
 
