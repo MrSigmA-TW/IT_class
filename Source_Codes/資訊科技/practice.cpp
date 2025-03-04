@@ -3,7 +3,13 @@ using namespace std;
 int main()
 {
     string input;
-    cin >> input;
-    cout << "hello, " << input << endl;
-    return 0;
+    while(cin >> input)
+    {
+        cout << "hello, " << input << endl;
+    }
+    if(input == "exit")
+    {
+        return 0;
+    }
+
 }
