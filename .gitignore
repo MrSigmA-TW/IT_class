@@ -32,5 +32,4 @@
 *.app
 
 # Visual Studio Code directory
-*.vscode
-.vscode
+.vscode/
