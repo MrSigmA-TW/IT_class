@@ -10,6 +10,8 @@
 ## 實用連結
 * [台南女中資訊研究社 早修C++講義](https://hackmd.io/@Tamilala/TngsCppCourse/%2F%40Tamilala%2Fcpp_cover)
 * [KSHS MD](https://class.kshs.kh.edu.tw/)
+* [Git 環境安裝](https://git-scm.com/downloads/win)
+* [VS Code安裝](https://code.visualstudio.com/Download)
 
 ## GIT 的使用 
 
