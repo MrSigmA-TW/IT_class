@@ -12,6 +12,7 @@
 * [KSHS MD](https://class.kshs.kh.edu.tw/)
 * [Git 環境安裝](https://git-scm.com/downloads/win)
 * [VS Code安裝](https://code.visualstudio.com/Download)
+* [VS Code設定檔](https://vscode.dev/profile/github/a6dea89b8133c5e90603b82007dbb922)
 
 ## GIT 的使用 
 
