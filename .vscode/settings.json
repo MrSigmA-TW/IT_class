@@ -2,5 +2,6 @@
     "files.associations": {
         "iostream": "cpp"
     },
-    "markdown.validate.enabled": true
+    "markdown.validate.enabled": true,
+    "C_Cpp.default.compilerPath": "c:\\Users\\user\\Desktop\\MinGW\\bin\\g++.exe"
 }
