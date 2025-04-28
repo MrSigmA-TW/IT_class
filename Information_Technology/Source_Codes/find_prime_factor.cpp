@@ -7,7 +7,7 @@ int main() {
     int n;
     cout << "Enter a number: ";
     cin >> n;
-    for (size_t i = 2; i < sqrt(n); i++)
+    for (i = 2; i < sqrt(n); i++)
     {
         while (n%i==0)
         {
