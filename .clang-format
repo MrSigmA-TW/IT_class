@@ -1,0 +1,4 @@
+BasedOnStyle: Google
+IndentWidth: 4
+BraceWrapping:
+  AfterControlStatement: false  # 控制 `{` 是否放在同一行
