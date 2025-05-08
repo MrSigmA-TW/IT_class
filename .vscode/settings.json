@@ -1,7 +1,8 @@
 {
     "files.associations": {
         "iostream": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "cmath": "cpp"
     },
     "markdown.validate.enabled": true,
     "C_Cpp.default.compilerPath": "c:\\Users\\user\\Desktop\\MinGW\\bin\\g++.exe",
