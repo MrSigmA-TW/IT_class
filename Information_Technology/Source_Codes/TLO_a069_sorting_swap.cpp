@@ -9,7 +9,7 @@ int main() {
     for (int j = 0; j < n; j++) {
         for (int k = j + 1; k < n; k++) { //Selection Sorting
             if (A[j] < A[k]) {
-                swap(A[j], A[k]);
+                swap(A[j], A[k]);//case 1:使用swap函數
             }
         }
     }
