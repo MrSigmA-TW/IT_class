@@ -3,7 +3,7 @@
 #include <string>
 
 using namespace std;
-//此為正解
+
 int main() {
     int w;
     cin >> w;
